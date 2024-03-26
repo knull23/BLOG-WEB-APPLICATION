@@ -1,0 +1,148 @@
+#title {
+    background: linear-gradient(to right, #54c84e, #aefb8f); /* Gradient background */
+    color: #fff; /* Text color */
+  }
+  
+  .container {
+    max-width: 1200px; /* Limit container width */
+    margin: auto; /* Center container */
+  }
+  
+  /* Logo */
+  #title .fs-4 {
+    font-size: 1.5rem; /* Adjust font size */
+    font-weight: bold; /* Bold text */
+  }
+  
+  /* Navigation links */
+  .nav-pills .nav-link {
+    color: #fff; /* Link text color */
+    margin: 10px 10px; /* Add margin between links */
+    font-weight: bold; /* Bold text */
+  }
+  
+  .nav-pills .nav-link:hover,
+  .nav-pills .nav-link.active {
+    background-color: rgba(122, 29, 29, 0.852); /* Hover/Active background color */
+    border-radius: 5px; /* Rounded corners */
+  }
+  
+  /* Adjust spacing */
+  .py-3 {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+  
+  .mb-4 {
+    margin-bottom: 2rem;
+  }
+  
+  .border-bottom {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2); /* Border color */
+  }
+  
+  .gradient-background {
+    background: linear-gradient(300deg #54c84e, #aefc90, rgb(167, 210, 183));
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+    text-align: center;
+  }
+  
+  @keyframes gradient-animation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  
+  .profile {
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+  
+  body {
+    font-family: 'Times New Roman', Times, serif;
+    text-align:left;
+    font-size:large;
+    background-color: #d2f5d6; /* Light green background */
+  }
+  
+  .footer-background {
+    background-color: rgb(241, 250, 218);
+  }
+  
+  .text {
+    text-align: center;
+    justify-content: center;
+  }
+  
+  .a {
+    color: aliceblue;
+  }
+
+  #footer {
+    background-color: #f1fadac2; /* Light green background with transparency */
+  }
+  
+  #footer .container {
+    max-width: 1200px; /* Limit container width */
+    margin: auto; /* Center container */
+  }
+  
+  #footer .py-5 {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
+  
+  #footer .nav {
+    justify-content: center; /* Center navigation links */
+  }
+  
+  #footer .nav-item {
+    margin-right: 10px; /* Add margin between navigation links */
+  }
+  
+  #footer .nav-link {
+    color: #fff; /* Link text color */
+    margin: 0 10px; /* Add margin between links */
+    font-weight: bold; /* Bold text */
+  }
+  
+  #footer .nav-link:hover {
+    background-color: rgba(138, 34, 34, 0.852); /* Hover background color */
+    border-radius: 5px; /* Rounded corners */
+  }
+  
+  #footer .text-body-secondary {
+    color: #6c757d; /* Secondary text color */
+  }
+  
+  #footer .text-center {
+    text-align: center; /* Center align text */
+  }
+
+  .link:hover,
+  .link.active {
+    color: rgba(122, 29, 29, 0.852); /* Hover/Active background color */
+  }
+
+  .img-head{
+    height: 2rem;
+    width: 2rem;
+    object-fit: cover;
+    border-radius: 50%;
+    justify-content: center;
+  }
+
+  .ques{
+    font-weight: bold;
+  }
+
+  /*rgba(189, 21, 21, 0.8)*/
