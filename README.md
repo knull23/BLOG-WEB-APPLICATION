@@ -23,7 +23,7 @@ This is a simple blog web application built using Node.js, Express.js, and EJS. 
 
 1. Clone the repository:
 ```bash
-git clone <repository_url>
+git clone [<repository_url>](https://github.com/knull23/BLOG-WEB-APPLICATION.git)
 ```
 2. Install the dependencies:
    ```bash
