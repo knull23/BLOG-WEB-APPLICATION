@@ -16,6 +16,7 @@ This is a simple blog web application built using Node.js, Express.js, and EJS. 
 - EJS (Embedded JavaScript): A templating language that generates HTML markup with JavaScript.
 - HTML/CSS: Used for structuring and styling the web pages.
 - JavaScript: Used for client-side interactivity and DOM manipulation.
+- Bootstrap: used for making a responsive design 
 
 
 
@@ -26,11 +27,11 @@ This is a simple blog web application built using Node.js, Express.js, and EJS. 
 git clone [<repository_url>](https://github.com/knull23/BLOG-WEB-APPLICATION.git)
 ```
 2. Install the dependencies:
-   ```bash
+```bash
    install npm init -y
    install express ejs body-parser
    node blog.js
-   ```
+```
 Write this in the new terminal to make the server start 
 
 ## Contributions
