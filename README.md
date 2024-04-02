@@ -33,5 +33,7 @@ git clone [<repository_url>](https://github.com/knull23/BLOG-WEB-APPLICATION.git
    ```
 Write this in the new terminal to make the server start 
 
+## Contributions
+Contributions are welcome! If you find any bugs or want to add new features, feel free to open an issue or submit a pull request.
 
 
