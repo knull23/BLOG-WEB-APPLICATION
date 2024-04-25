@@ -29,7 +29,7 @@ git clone [<repository_url>](https://github.com/knull23/BLOG-WEB-APPLICATION.git
 2. Install the dependencies:
 ```bash
    install npm init -y
-   install express ejs body-parser
+   install express ejs axios
    node blog.js
 ```
 Write this in the new terminal to make the server start 
